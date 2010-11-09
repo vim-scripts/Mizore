@@ -79,7 +79,7 @@ hi WarningMsg   guifg=#ccae22 ctermfg=yellow    guibg=#000000 ctermbg=black  gui
 
 " syntax highlighting groups (:help group-name)
 
-hi Comment      guifg=#b0b010  ctermfg=brown       guibg=#000000 ctermbg=black
+hi Comment      guifg=#b0b0b0  ctermfg=gray       guibg=#000000 ctermbg=black
 hi Keyword      guifg=#ffffff  ctermfg=white       guibg=#000000 ctermbg=black
 hi Statement    guifg=#ffffff  ctermfg=white       guibg=#000000 ctermbg=black  gui=bold cterm=bold 
 hi StorageClass guifg=#b0ffb0  ctermfg=white       guibg=#000000 ctermbg=black  gui=bold cterm=NONE
